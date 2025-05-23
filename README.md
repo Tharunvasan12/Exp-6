@@ -41,6 +41,8 @@ Use Case Diagram
  Sequence Diagram
 
 ![image](https://github.com/user-attachments/assets/8f687ae7-3fa3-472b-9169-8faa7e91274b)
+package diagram
+![image](https://github.com/user-attachments/assets/bc23a73d-5c05-4e3b-9c0a-57a0349944be)
 
 # RESULT:
 to draw the UML diagram for student exam registration system is executed successfully
